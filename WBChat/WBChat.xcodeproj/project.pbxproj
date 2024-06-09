@@ -7,6 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C0A413F12C1B1D9F00B5A7A3 /* ContactsTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0A413F02C1B1D9F00B5A7A3 /* ContactsTabView.swift */; };
+		C0A413F32C1B28E900B5A7A3 /* AddContactView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0A413F22C1B28E900B5A7A3 /* AddContactView.swift */; };
+		C0A413F52C1B31E500B5A7A3 /* TabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0A413F42C1B31E500B5A7A3 /* TabBarView.swift */; };
+		C0A413FB2C1B3A8F00B5A7A3 /* SearchBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0A413FA2C1B3A8F00B5A7A3 /* SearchBarView.swift */; };
+		C0A413FF2C22F0E600B5A7A3 /* Contact.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0A413FE2C22F0E600B5A7A3 /* Contact.swift */; };
+		C0A414032C230AC300B5A7A3 /* ContactCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0A414022C230AC300B5A7A3 /* ContactCell.swift */; };
+		C0A414052C230B5F00B5A7A3 /* InitialsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0A414042C230B5F00B5A7A3 /* InitialsView.swift */; };
+		C0A414072C243DFA00B5A7A3 /* ChatsTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0A414062C243DFA00B5A7A3 /* ChatsTabView.swift */; };
+		C0A414092C243E0C00B5A7A3 /* MoreTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0A414082C243E0C00B5A7A3 /* MoreTabView.swift */; };
+		C0A4140F2C2444C800B5A7A3 /* ContactDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0A4140E2C2444C800B5A7A3 /* ContactDetailsView.swift */; };
+		C0A414112C24755900B5A7A3 /* SocialLink.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0A414102C24755900B5A7A3 /* SocialLink.swift */; };
+		C0A414132C2479AA00B5A7A3 /* EditContactView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0A414122C2479AA00B5A7A3 /* EditContactView.swift */; };
 		C0E41CB62C162E9700AF3C54 /* WBChatApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0E41CB52C162E9700AF3C54 /* WBChatApp.swift */; };
 		C0E41CB82C162E9700AF3C54 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0E41CB72C162E9700AF3C54 /* ContentView.swift */; };
 		C0E41CBA2C162E9900AF3C54 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C0E41CB92C162E9900AF3C54 /* Assets.xcassets */; };
@@ -20,6 +32,18 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C0A413F02C1B1D9F00B5A7A3 /* ContactsTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactsTabView.swift; sourceTree = "<group>"; };
+		C0A413F22C1B28E900B5A7A3 /* AddContactView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddContactView.swift; sourceTree = "<group>"; };
+		C0A413F42C1B31E500B5A7A3 /* TabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarView.swift; sourceTree = "<group>"; };
+		C0A413FA2C1B3A8F00B5A7A3 /* SearchBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBarView.swift; sourceTree = "<group>"; };
+		C0A413FE2C22F0E600B5A7A3 /* Contact.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Contact.swift; sourceTree = "<group>"; };
+		C0A414022C230AC300B5A7A3 /* ContactCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactCell.swift; sourceTree = "<group>"; };
+		C0A414042C230B5F00B5A7A3 /* InitialsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitialsView.swift; sourceTree = "<group>"; };
+		C0A414062C243DFA00B5A7A3 /* ChatsTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatsTabView.swift; sourceTree = "<group>"; };
+		C0A414082C243E0C00B5A7A3 /* MoreTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoreTabView.swift; sourceTree = "<group>"; };
+		C0A4140E2C2444C800B5A7A3 /* ContactDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactDetailsView.swift; sourceTree = "<group>"; };
+		C0A414102C24755900B5A7A3 /* SocialLink.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SocialLink.swift; sourceTree = "<group>"; };
+		C0A414122C2479AA00B5A7A3 /* EditContactView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditContactView.swift; sourceTree = "<group>"; };
 		C0E41CB22C162E9700AF3C54 /* WBChat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WBChat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C0E41CB52C162E9700AF3C54 /* WBChatApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WBChatApp.swift; sourceTree = "<group>"; };
 		C0E41CB72C162E9700AF3C54 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -44,6 +68,48 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		C0A4140A2C243E1800B5A7A3 /* Tabs */ = {
+			isa = PBXGroup;
+			children = (
+				C0A4140D2C243E5300B5A7A3 /* MoreTab */,
+				C0A4140C2C243E4900B5A7A3 /* ChatsTab */,
+				C0A4140B2C243E3500B5A7A3 /* ContactsTab */,
+			);
+			path = Tabs;
+			sourceTree = "<group>";
+		};
+		C0A4140B2C243E3500B5A7A3 /* ContactsTab */ = {
+			isa = PBXGroup;
+			children = (
+				C0A413F02C1B1D9F00B5A7A3 /* ContactsTabView.swift */,
+				C0A414022C230AC300B5A7A3 /* ContactCell.swift */,
+				C0A413FE2C22F0E600B5A7A3 /* Contact.swift */,
+				C0A413FA2C1B3A8F00B5A7A3 /* SearchBarView.swift */,
+				C0A413F22C1B28E900B5A7A3 /* AddContactView.swift */,
+				C0A414122C2479AA00B5A7A3 /* EditContactView.swift */,
+				C0A414042C230B5F00B5A7A3 /* InitialsView.swift */,
+				C0A4140E2C2444C800B5A7A3 /* ContactDetailsView.swift */,
+				C0A414102C24755900B5A7A3 /* SocialLink.swift */,
+			);
+			path = ContactsTab;
+			sourceTree = "<group>";
+		};
+		C0A4140C2C243E4900B5A7A3 /* ChatsTab */ = {
+			isa = PBXGroup;
+			children = (
+				C0A414062C243DFA00B5A7A3 /* ChatsTabView.swift */,
+			);
+			path = ChatsTab;
+			sourceTree = "<group>";
+		};
+		C0A4140D2C243E5300B5A7A3 /* MoreTab */ = {
+			isa = PBXGroup;
+			children = (
+				C0A414082C243E0C00B5A7A3 /* MoreTabView.swift */,
+			);
+			path = MoreTab;
+			sourceTree = "<group>";
+		};
 		C0E41CA92C162E9700AF3C54 = {
 			isa = PBXGroup;
 			children = (
@@ -64,8 +130,10 @@
 			isa = PBXGroup;
 			children = (
 				C0E41CB52C162E9700AF3C54 /* WBChatApp.swift */,
-				C0E41CB72C162E9700AF3C54 /* ContentView.swift */,
+				C0A413F42C1B31E500B5A7A3 /* TabBarView.swift */,
+				C0A4140A2C243E1800B5A7A3 /* Tabs */,
 				C0E41CC32C162EC100AF3C54 /* Onboarding */,
+				C0E41CB72C162E9700AF3C54 /* ContentView.swift */,
 				C0E41CB92C162E9900AF3C54 /* Assets.xcassets */,
 				C0E41CBB2C162E9900AF3C54 /* Preview Content */,
 			);
@@ -164,12 +232,24 @@
 			buildActionMask = 2147483647;
 			files = (
 				C0E41CC52C162EF500AF3C54 /* ImageView.swift in Sources */,
+				C0A413F52C1B31E500B5A7A3 /* TabBarView.swift in Sources */,
+				C0A414072C243DFA00B5A7A3 /* ChatsTabView.swift in Sources */,
+				C0A413F32C1B28E900B5A7A3 /* AddContactView.swift in Sources */,
+				C0A414052C230B5F00B5A7A3 /* InitialsView.swift in Sources */,
+				C0A413F12C1B1D9F00B5A7A3 /* ContactsTabView.swift in Sources */,
 				C0E41CCB2C162F2A00AF3C54 /* AgreementView.swift in Sources */,
 				C0E41CB82C162E9700AF3C54 /* ContentView.swift in Sources */,
 				C0E41CB62C162E9700AF3C54 /* WBChatApp.swift in Sources */,
+				C0A414032C230AC300B5A7A3 /* ContactCell.swift in Sources */,
+				C0A414112C24755900B5A7A3 /* SocialLink.swift in Sources */,
+				C0A4140F2C2444C800B5A7A3 /* ContactDetailsView.swift in Sources */,
 				C0E41CC72C162F0300AF3C54 /* HeaderView.swift in Sources */,
 				C0E41CC92C162F1B00AF3C54 /* UAButtonView.swift in Sources */,
+				C0A413FB2C1B3A8F00B5A7A3 /* SearchBarView.swift in Sources */,
+				C0A414092C243E0C00B5A7A3 /* MoreTabView.swift in Sources */,
 				C0E41CCD2C162F3A00AF3C54 /* StartChatButtonView.swift in Sources */,
+				C0A414132C2479AA00B5A7A3 /* EditContactView.swift in Sources */,
+				C0A413FF2C22F0E600B5A7A3 /* Contact.swift in Sources */,
 				C0E41CCF2C162F5400AF3C54 /* VerificationView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
